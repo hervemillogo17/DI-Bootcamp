@@ -1,0 +1,15 @@
+td {
+	border:groove;
+}
+
+th{
+	border:solid;
+}
+
+.n{
+	border-style:solid;
+	border-color:red;
+}
+.Imag{ 
+text-align:center;
+}
